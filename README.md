@@ -3,6 +3,7 @@
 ## Project info
 
 **URL**: https://lovable.dev/projects/2167bc70-b40a-41e8-b455-4359ca4eb026
+ths is demo video link https://youtu.be/YNvOLNw8aPo
 
 ## How can I edit this code?
 
